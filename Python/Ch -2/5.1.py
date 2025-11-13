@@ -85,3 +85,9 @@ print(marks,"Congraulatons!! you are pass !" if marks>=40 else "You are fail, be
 num=int(input("Enter Number"))
 print(num,"is even number") if num%2==0 else ( print(num,"is odd number"))
 '''
+
+# Input a number and print "Even" if even; otherwise print "Odd" using shorthand if-else.
+
+'''
+num=int(input("Enter Number"))
+print(num,"is even number") if num%2==0 else ( print(num,"is odd number"))
