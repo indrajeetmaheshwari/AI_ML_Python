@@ -15,4 +15,3 @@ print(" ")
 print("Your Birth year is approximately: ", 2025-age ,"( based on your Age of", age, ")")
 print(" ")
 print("Thank you for using the Personal Data Collector. Goodbye!")
-
