@@ -32,6 +32,7 @@ while True:
 
     elif choice == 3:
         print("Exiting the program. Goodbye!")
+        break
 
     else:
         print("Invalid choice.")
